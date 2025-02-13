@@ -49,19 +49,3 @@ Example:
 from playsound import playsound
 playsound("C:/path/to/your/audio/file.mp3")
 
-Step 3: Use Emojis and Badges
-GitHub supports emojis and badges. You can use them to make your README visually appealing.
-
-Example:
-
-Emoji: 🎵 renders as 🎵.
-Badge: ![Python](https://img.shields.io/badge/Python-3.x-blue) renders as Python .
-Step 4: Save as .md
-Save your file as README.md and upload it to your GitHub repository.
-
-Final Check
-After uploading, GitHub will automatically render the Markdown file. If something doesn’t look right:
-
-1.Edit the file directly on GitHub.
-2.Use the preview feature to see how it will look.
-3.Make adjustments as needed.
